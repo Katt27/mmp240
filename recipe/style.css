@@ -2,5 +2,14 @@ body{
   font-family: 'varela round'; sans-serif;
   background-color: plum;
   width: 50%;
+
+  border: dotted 3px orange;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+
+  
   
 }
