@@ -1,0 +1,44 @@
+*{
+  margin:0;
+  padding: 0;
+  border:none;
+}
+body {
+  background-color: black;
+}
+
+#wrapper {
+max-width:1200px;
+  backgroud-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  margin-bottom: 1em;
+  line-height:1.5em;
+  
+}
+
+header {
+  background-color: #000;
+  
+}
+
+.lead {
+  color: #fff;
+  width: 25em;
+  
+}
+
+.btn {
+  color: #fff;
+  text-decoration: none;
+  border: solid 1px #fff;
+  padding: 10px 20px; /* top/bottom left/right */
+  border-radius: 5x;
+  
+}
+
+
+
