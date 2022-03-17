@@ -20,9 +20,15 @@ p {
   
 }
 
-header {
-  background-color: #000;
+h1 img { max-width: 100%;
   
+}
+
+header {
+  padding: 2em;
+  background-color: #000;
+  background: linear-gradient(90deg, rgba(0,0,0,1) 25%, rgba(241,109,218,0) 33%),
+    url ("Jane The Virgin/JTC (copy).jpg") no repeat top right/ 75%
 }
 
 .lead {
@@ -31,14 +37,36 @@ header {
   
 }
 
-.btn {
+.button {
   color: #fff;
   text-decoration: none;
   border: solid 1px #fff;
   padding: 10px 20px; /* top/bottom left/right */
   border-radius: 5x;
+  background-image: url("playcircle.svg");
+  background-repeat: no-repeat;
+  background-position: center left;
+  padding-left: 25px;
+
+    }
+ 
+  
+   nav{
+   background-color: lightblue;
+     padding-top: 0.8em;
+     padding-bottom: 0.8em;
+     
+   }      
+ nav ul li a { 
+   color:white;}
+
+nav a:hoover {
+  text-decoration: underline;
   
 }
 
+li { 
+  display:inline;
+  margin-keft: 2em;
 
-
+}
