@@ -74,7 +74,9 @@ li {
 
 .card { width: 226px;}
 
-.card p { font-size: 0.8em;}
+.card p { font-size: 0.875em;
+        height: 3em;
+        }
 
 .card {
 background-color: hotpink;
