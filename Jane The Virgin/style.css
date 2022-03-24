@@ -70,3 +70,21 @@ li {
   margin-keft: 2em;
 
 }
+
+
+.card { width: 226px;}
+
+.card p { font-size: 0.8em;}
+
+.card {
+background-color: hotpink;
+  padding:2em;
+  margin:1em;
+  
+}
+
+.container {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
