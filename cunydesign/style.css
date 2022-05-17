@@ -32,7 +32,7 @@ header{
 .topmenu{
 	clear: right;
 	border: solid 1px gray;
-	/*display: none;*/
+	display: none;
 	position: absolute;
 	right:0;
 	top:50px;
