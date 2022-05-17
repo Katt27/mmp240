@@ -121,7 +121,7 @@ header{
 	margin-bottom: 2em;
 	box-shadow: 2px 2px 3px #888;
 	transition:
-	   box-shadow 0.5s ease-in;
+	   box-shadow 0.5s ease-in
 		 transform 0.5s ease-in;
 		 height: 100%; /* stretches to fill the height of its container, a element*/
 }
@@ -223,6 +223,9 @@ header{
 	/*grid-column: span 3*/
 }
 
+.programs-card{
+	margin-bottom:0;
+}
 
 
 
